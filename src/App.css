@@ -1,0 +1,11 @@
+html {
+  font-family: 'Cairo', sans-serif !important;
+}
+
+.linkToChannel {
+  transition: .5s;
+}
+
+.linkToChannel:hover {
+  color: #23644f;
+}
